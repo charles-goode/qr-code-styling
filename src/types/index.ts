@@ -4,7 +4,7 @@ export interface UnknownObject {
 }
 
 export type DotType = "dots" | "rounded" | "classy" | "classy-rounded" | "square" | "extra-rounded";
-export type CornerDotType = "dot" | "square";
+export type CornerDotType = "dot" | "square" | "extra-rounded";
 export type CornerSquareType = "dot" | "square" | "extra-rounded";
 export type Extension = "svg" | "png" | "jpeg" | "webp";
 export type GradientType = "radial" | "linear";
